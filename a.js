@@ -1100,7 +1100,7 @@ $CLTP_WR = $WZRK_WR = new function() {
         k = a[6]);
         "undefined" === typeof t && (t = !1);
         "undefined" === typeof p && (p = !1);
-        "undefined" === typeof l && (l = "/Test-CT/clevertap_sw.js");
+        "undefined" === typeof l && (l = "/Yashvi/clevertap_sw.js");
         if ("undefined" !== typeof navigator.serviceWorker)
             if (a = "undefined" !== typeof q && "undefined" !== typeof v,
             "https:" !== location.protocol && "localhost" !== document.location.hostname && !a)
